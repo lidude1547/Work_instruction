@@ -1,0 +1,7 @@
+# 大型輸出與本機工具檔（GitHub 單檔上限 100 MB）
+output/*.mp4
+output/.parts/
+output/.render.log
+*.wav
+tools/node_modules/
+.claude/
